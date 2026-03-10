@@ -1,0 +1,5 @@
+age;gender;bmi;children;discount_eligibility;region
+52;female;45,8;1;no;northeast
+43;male;25,8;0;no;northeast
+40;male;25,3;2;no;south
+40;male;25,8;2;yes;south
